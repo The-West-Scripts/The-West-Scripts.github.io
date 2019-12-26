@@ -3,9 +3,9 @@
 ## Guide to managing scripts
 
 ### Hosting
-You can use [GitHub Pages](https://pages.github.com/) to host your userscript. You can then access the file using the following path: `https://the-west-wcripts.github.io/<REPO-NAME>/<FILE-NAME>`
+You can use [GitHub Pages](https://pages.github.com/) to host your userscript. You can then access the file using the following path: `https://the-west-scripts.github.io/<REPO-NAME>/<FILE-NAME>`
 
-Make sure you select the master branch as a source for your GitHub Pages. `Settings->Options->GitHub Pages->Sorce->master`
+Make sure you select the master branch as a source for your GitHub Pages. `Settings->Options->GitHub Pages->Source->master`
 
 ### Contributions 
 Everyone in the organisation has `Write` permissions by default to all repositories. It is a script owner's responsibility to decide whether or not he wants to keep it like that
