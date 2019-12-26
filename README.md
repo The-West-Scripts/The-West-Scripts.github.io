@@ -16,6 +16,7 @@ You can of course protect the `master` branch if you want full control of what c
 
 ## UserScript List
 
-* [TW Best Friends](https://the-west-scripts.github.io/TW-Best-Friends/script.user.js)
-* [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/script.user.js)
-* [Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/script.user.js)
+* [TW Best Friends](https://the-west-scripts.github.io/TW-Best-Friends/)
+* [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
+* [Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
+* [Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
