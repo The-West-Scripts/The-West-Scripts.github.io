@@ -22,6 +22,11 @@ You can of course protect the `master` branch if you want full control of what c
 ## UserScript List
 
 * [TW Best Friends](https://the-west-scripts.github.io/TW-Best-Friends/)
+* [TW Color tchat](https://the-west-scripts.github.io/The-West-Color-tchat/)
+* [TW Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
 * [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
-* [Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
-* [Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
+* [TW LeoTools](https://the-west-scripts.github.io/The-West-LeoTools/)
+* [TW Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
+* [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
+* [TW Quick items search](https://the-west-scripts.github.io/The-West-Quick-items-search/)
+* [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
