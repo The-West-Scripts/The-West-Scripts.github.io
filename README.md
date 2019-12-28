@@ -30,3 +30,5 @@ You can of course protect the `master` branch if you want full control of what c
 * [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
 * [TW Quick items search](https://the-west-scripts.github.io/The-West-Quick-items-search/)
 * [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
+* [TW Calc](https://the-west-scripts.github.io/TW-Calc-Script/)
+* [TW Toolkit](https://the-west-scripts.github.io/TW-Toolkit/)
