@@ -1,5 +1,22 @@
 # The West Scripts
 
+## Script "Legality"
+
+Please be aware that some userscripts might be considered "illegal" on your local server. We are absolutely *not* in control of that. We are not responsible if you get banned for using any of the hosted UserScripts.
+
+## UserScript List
+
+* [TW Best Friends](https://the-west-scripts.github.io/TW-Best-Friends/)
+* [TW Calc](https://the-west-scripts.github.io/TW-Calc-Script/)
+* [TW Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
+* [TW Essentials](https://the-west-scripts.github.io/The-West-Essentials/)
+* [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
+* [TW Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
+* [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
+* [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
+* [TW Toolkit](https://the-west-scripts.github.io/TW-Toolkit/)
+
+
 ## Guide to managing scripts
 
 ### Hosting
@@ -18,15 +35,3 @@ You are free to change the content of this file however you please.
 #### Branch rules
 You can of course protect the `master` branch if you want full control of what code goes into your script. If you do that make sure you create a `.github/CODEOWNERS` file and add yourself as a Code Owner. More information about that here: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
 
-
-## UserScript List
-
-* [TW Best Friends](https://the-west-scripts.github.io/TW-Best-Friends/)
-* [TW Calc](https://the-west-scripts.github.io/TW-Calc-Script/)
-* [TW Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
-* [TW Essentials](https://the-west-scripts.github.io/The-West-Essentials/)
-* [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
-* [TW Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
-* [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
-* [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
-* [TW Toolkit](https://the-west-scripts.github.io/TW-Toolkit/)
