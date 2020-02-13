@@ -8,11 +8,13 @@ Please be aware that some userscripts might be considered "illegal" on your loca
 
 * [TW Best Friends](https://the-west-scripts.github.io/TW-Best-Friends/)
 * [TW Calc](https://the-west-scripts.github.io/TW-Calc-Script/)
+* [TW Duel Warner](https://the-west-scripts.github.io/tw-duel-warner/)
 * [TW Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
 * [TW Essentials](https://the-west-scripts.github.io/The-West-Essentials/)
 * [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
 * [TW Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
 * [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
+* [TW Perseus Toolkit](https://the-west-scripts.github.io/tw-perseus-toolkit/)
 * [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
 * [TW Toolkit](https://the-west-scripts.github.io/TW-Toolkit/)
 
