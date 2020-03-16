@@ -11,12 +11,14 @@ Please be aware that some userscripts might be considered "illegal" on your loca
 * [TW Duel Warner](https://the-west-scripts.github.io/tw-duel-warner/)
 * [TW Equipment Manager](https://the-west-scripts.github.io/Equipment-Manager/)
 * [TW Essentials](https://the-west-scripts.github.io/The-West-Essentials/)
+* [TW Inventory Reloaded](https://the-west-scripts.github.io/TW-Inventory-Reloaded/)
 * [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
 * [TW Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
 * [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
 * [TW Perseus Toolkit](https://the-west-scripts.github.io/tw-perseus-toolkit/)
 * [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
 * [TW Toolkit](https://the-west-scripts.github.io/TW-Toolkit/)
+
 
 
 ## Guide to managing scripts
