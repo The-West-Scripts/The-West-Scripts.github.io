@@ -18,6 +18,7 @@ Please be aware that some userscripts might be considered "illegal" on your loca
 * [TW Perseus Toolkit](https://the-west-scripts.github.io/tw-perseus-toolkit/)
 * [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
 * [TW Toolkit](https://the-west-scripts.github.io/TW-Toolkit/)
+* [Friends List](https://the-west-scripts.github.io/Friends-List/)
 
 
 
