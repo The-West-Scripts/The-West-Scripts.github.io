@@ -15,7 +15,6 @@ As of 23/03/2022 we no longer endorse or host scripts that are illegal on all se
 * [TW Kappa](https://the-west-scripts.github.io/TW-Kappa/)
 * [TW Magic Bundle](https://the-west-scripts.github.io/Magic-Bundle/)
 * [TW Menu](https://the-west-scripts.github.io/The-West-Menu/)
-* [TW Perseus Toolkit](https://the-west-scripts.github.io/tw-perseus-toolkit/)
 * [TW Sweets](https://the-west-scripts.github.io/The-West-Sweets/)
 * [Friends List](https://the-west-scripts.github.io/Friends-List/)
 
